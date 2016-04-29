@@ -7,3 +7,4 @@ def weigh (lugage):
     else:
         print "no charge"
 weigh (lugage)
+#new line
